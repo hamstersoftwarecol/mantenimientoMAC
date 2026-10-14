@@ -1,9 +1,30 @@
-# Mantenimiento Mac
+# Mantenimiento Mac 🚀
 
-Aplicación local para macOS 13 o posterior. Esta compilación es para Mac con Apple Silicon (M1, M2, M3 y posteriores). Versión 1.2.0: análisis de cachés y desinstalación por lotes con revisión de residuos.
+[![Platform](https://img.shields.io/badge/platform-macOS%2013%2B-blue.svg)](https://apple.com)
+[![Architecture](https://img.shields.io/badge/architecture-Apple%20Silicon%20(M1%2FM2%2FM3%2FM4)-orange.svg)](https://apple.com)
+[![Swift](https://img.shields.io/badge/Swift-5.9%2B-F05138.svg)](https://swift.org)
+[![Version](https://img.shields.io/badge/version-1.2.0-green.svg)](https://github.com/hamstersoftwarecol/mantenimientoMAC)
+[![Organization](https://img.shields.io/badge/by-Hamster%20Software-purple.svg)](https://github.com/hamstersoftwarecol)
 
-## Uso
+> **Mantenimiento Mac** es una utilidad nativa, rápida y segura diseñada para macOS (Apple Silicon). Permite auditar el software instalado, analizar y limpiar cachés de usuario de forma segura, y realizar desinstalaciones individuales o por lotes con inspección inteligente de residuos sin requerir permisos de superusuario (`sudo`).
 
+Desarrollado y mantenido por **[Hamster Software](https://github.com/hamstersoftwarecol)**.
+
+---
+
+## ✨ Características Principales
+
+- 🔍 **Auditoría completa de programas**: Inventario de aplicaciones locales (`/Applications`, `~/Applications`), aplicaciones del sistema y paquetes/casks de **Homebrew**.
+- 🧹 **Limpieza segura de cachés**: Detección de cachés de aplicaciones (`~/Library/Caches` y Homebrew) con visualización de tamaño y traslado controlado a la Papelera (sin borrado permanente inmediato).
+- 📦 **Desinstalación por lotes**: Selección múltiple de programas con comprobación de bloqueos (aplicaciones abiertas, apps del sistema y dependencias de Homebrew).
+- 🕵️ **Revisión profunda de residuos**: Identificación precisa de datos residuales asociados por bundle ID (preferencias, Application Support, registros, estado guardado y cachés).
+- 🛡️ **Seguridad por diseño**: No requiere privilegios de administrador, no fuerza eliminaciones destructivas y previene errores con dependencias activas.
+
+---
+
+## 📖 Guía de Uso
+
+### Limpieza de cachés
 1. Abre **Mantenimiento Mac.app** con doble clic desde esta carpeta.
 2. Pulsa **Analizar mi Mac**. Esta operación solo lee información.
 3. En **Programas instalados**, revisa aplicaciones y paquetes de Homebrew. Busca por nombre, ubicación u origen.
