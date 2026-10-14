@@ -77,3 +77,17 @@ zsh scripts/build.sh
 ```
 
 La suite crea aplicaciones y datos temporales y simula el traslado en un destino temporal. Simula Homebrew en la frontera de procesos para verificar los argumentos, dependientes, fallos y verificación posterior. No limpia cachés reales, desinstala programas reales ni vacía la Papelera. La aplicación tiene firma ad hoc para uso local; no es una distribución notarizada por Apple.
+
+---
+
+## ℹ️ Acerca de / About
+
+**Mantenimiento Mac** es un proyecto concebido y desarrollado por **Hamster Software** con el objetivo de ofrecer a los usuarios de macOS una herramienta confiable, transparente y sin riesgos para la optimización de espacio y la gestión del ciclo de vida de sus programas.
+
+- **Organización:** [Hamster Software](https://github.com/hamstersoftwarecol)
+- **Repositorio oficial:** [hamstersoftwarecol/mantenimientoMAC](https://github.com/hamstersoftwarecol/mantenimientoMAC)
+- **Filosofía del proyecto:** 
+  - **Transparencia total:** Sin borrados ocultos ni telemetría intrusiva.
+  - **No destructivo por defecto:** Todo traslado se realiza a la Papelera de macOS, preservando siempre la opción de recuperación manual.
+  - **Sin privilegios innecesarios:** Funciona íntegramente dentro del espacio de usuario, sin necesidad de elevación de privilegios (`sudo`).
+  - **Rendimiento nativo:** Construido en Swift para aprovechar al máximo la arquitectura Apple Silicon.
