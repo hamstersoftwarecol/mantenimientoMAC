@@ -1,0 +1,246 @@
+{
+  "estado": "programadas_y_verificadas_en_Meta_Business_Suite",
+  "facebook": "Hamster Software",
+  "instagram": "hamstersoftwarecol",
+  "hora": "11:00",
+  "zona_horaria": "America/Bogota",
+  "publicaciones_por_red": 29,
+  "total_publicaciones": 58,
+  "inicio": "2026-10-14",
+  "fin": "2026-11-11",
+  "verificacion": "Cada título se consultó en Programadas y se comprobaron dos registros, uno por red, con su fecha y las 11:00.",
+  "publicaciones": [
+    {
+      "numero": 1,
+      "fecha": "2026-10-14",
+      "imagen": "flyer-01.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 2,
+      "fecha": "2026-10-15",
+      "imagen": "flyer-02.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 3,
+      "fecha": "2026-10-16",
+      "imagen": "flyer-03.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 4,
+      "fecha": "2026-10-17",
+      "imagen": "flyer-04.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 5,
+      "fecha": "2026-10-18",
+      "imagen": "flyer-05.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 6,
+      "fecha": "2026-10-19",
+      "imagen": "flyer-06.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 7,
+      "fecha": "2026-10-20",
+      "imagen": "flyer-07.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 8,
+      "fecha": "2026-10-21",
+      "imagen": "flyer-08.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 9,
+      "fecha": "2026-10-22",
+      "imagen": "flyer-09.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 10,
+      "fecha": "2026-10-23",
+      "imagen": "flyer-10.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 11,
+      "fecha": "2026-10-24",
+      "imagen": "flyer-11.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 12,
+      "fecha": "2026-10-25",
+      "imagen": "flyer-12.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 13,
+      "fecha": "2026-10-26",
+      "imagen": "flyer-13.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 14,
+      "fecha": "2026-10-27",
+      "imagen": "flyer-14.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 15,
+      "fecha": "2026-10-28",
+      "imagen": "flyer-15.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 16,
+      "fecha": "2026-10-29",
+      "imagen": "flyer-16.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 17,
+      "fecha": "2026-10-30",
+      "imagen": "flyer-17.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 18,
+      "fecha": "2026-10-31",
+      "imagen": "flyer-18.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 19,
+      "fecha": "2026-11-01",
+      "imagen": "flyer-19.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 20,
+      "fecha": "2026-11-02",
+      "imagen": "flyer-20.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 21,
+      "fecha": "2026-11-03",
+      "imagen": "flyer-21.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 22,
+      "fecha": "2026-11-04",
+      "imagen": "flyer-22.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 23,
+      "fecha": "2026-11-05",
+      "imagen": "flyer-23.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 24,
+      "fecha": "2026-11-06",
+      "imagen": "flyer-24.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 25,
+      "fecha": "2026-11-07",
+      "imagen": "flyer-25.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 26,
+      "fecha": "2026-11-08",
+      "imagen": "flyer-26.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 27,
+      "fecha": "2026-11-09",
+      "imagen": "flyer-27.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 28,
+      "fecha": "2026-11-10",
+      "imagen": "flyer-28.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    },
+    {
+      "numero": 29,
+      "fecha": "2026-11-11",
+      "imagen": "flyer-29.png",
+      "hora": "11:00",
+      "facebook_verificado": true,
+      "instagram_verificado": true
+    }
+  ]
+}
